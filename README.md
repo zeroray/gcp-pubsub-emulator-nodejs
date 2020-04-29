@@ -39,7 +39,7 @@ https://cloud.google.com/pubsub/docs/emulator?hl=es-419#pubsub-emulator-csharp
 # Create Topic
 `python publisher.py {PUBSUB_PROJECT_ID} create {TOPIC_ID}`
 
-# From NodejS send message
+# From NodeJS send message
 If is a new terminal or console, so you need export PUBSUB_EMULATOR_HOST and PUBSUB_PROJECT_ID Environment Variables
 
 `node sendPubSub.js`
@@ -49,5 +49,5 @@ You should see quantity message published
 # Create Subscription 
 `python subscriber.py {PUBSUB_PROJECT_ID} create {TOPIC_ID} {SUBSCRIPTION_ID}`
 
-# From NodejS listener/receive message
+# From NodeJS listener/receive message
 `node listenerPubSub.js`
