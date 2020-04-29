@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Documentation Original
 https://cloud.google.com/pubsub/docs/emulator?hl=es-419#pubsub-emulator-csharp
 
@@ -52,12 +51,3 @@ You should see quantity message published
 
 # From NodejS listener/receive message
 `node listenerPubSub.js`
-
-
-
-
-
-=======
-# gcp-pubsub-emulator-nodejs
-Run GCP pub-sub emulator and send/receive message with nodejs
->>>>>>> 2c1ba398731d5c3091ed3e1e64bce746520205bc
