@@ -3,10 +3,10 @@ https://cloud.google.com/pubsub/docs/emulator?hl=es-419#pubsub-emulator-csharp
 
 # Example Values
 > {PUBSUB_EMULATOR_HOST} = localhost:8085
-{PUBSUB_PROJECT_ID} = localproject
+> {PUBSUB_PROJECT_ID} = localproject
 
 > {TOPIC_ID} = mytopic
-{SUBSCRIPTION_ID} = mysubscription
+> {SUBSCRIPTION_ID} = mysubscription
 
 # Install
 `npm install`
